@@ -2,7 +2,7 @@ const personalisedDefinition = {
     index: {
         backgroundImage: 'https://tenapi.cn/acg',
         title: 'WELCOME',
-        introduction: 'Make your Onedrive work like OSS'
+        introduction: 'https://tenapi.cn/yiyan/?format=js'
     },
     footer:{
         name:'DONGMMM',
