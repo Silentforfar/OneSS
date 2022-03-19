@@ -2,7 +2,7 @@ const personalisedDefinition = {
     index: {
         backgroundImage: 'https://tenapi.cn/acg',
         title: 'WELCOME',
-        introduction: 'https://tenapi.cn/yiyan/?format=js'
+        introduction: 'https://tenapi.cn/yiyan'
     },
     footer:{
         name:'DONGMMM',
